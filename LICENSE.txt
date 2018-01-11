@@ -1,1 +1,2 @@
 It is a sample of lisence.
+git diff and cached diff
